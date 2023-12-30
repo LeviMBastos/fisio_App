@@ -1,0 +1,104 @@
+{
+"semestres": {
+    "Semestre1": {
+      "Disciplinas": [
+        "Anatomia - Esplancnologia",
+        "Bioquimica Estrutural",
+        "Ciências Biológicas (Genética)",
+        "Biologia Tecidual",
+        "Comunicação e Expressão",
+        "História da Fisioterapia",
+        "Bases da Fisioterapia"
+      ]
+    },
+    "Semestre2": {
+      "Disciplinas": [
+        "Anatomia Funcional",
+        "Bioquímica Metabólica",
+        "Microbiologia e Imunologia Básica",
+        "Comunicação aplicada à Saúde",
+        "Fundamentos da fisioterapia",
+        "Noções de Língua Brasileira de Sinais",
+        "Terapias Integrativas"
+      ]
+    },
+    "Semestre3": {
+      "Disciplinas": [
+        "Bases de Especialidades Clínicas",
+        "Bases, Métodos e Técnicas de Avaliação",
+        "Cinesiologia",
+        "Fisiologia - Homeostase e Controle",
+        "Neurociências aplicada à Fisioterapia",
+        "Psicologia Geral e do Desenvolvimento",
+        "Saúde Coletiva"
+      ]
+    },
+    "Semestre4": {
+      "Disciplinas": [
+        "Gestão e Empreendedorismo em Fisioterapia",
+        "Biomecânica articular",
+        "E.C.: Cardiopulmonar",
+        "E.C.: Ortopedia, Traumatologia e Reumatologia",
+        "Fisiologia - Integração e Metabolismo",
+        "Neuroanatomia Funcional",
+        "Epidemiologia"
+      ]
+    },
+    "Semestre5": {
+      "Disciplinas": [
+        "Cinesioterapia",
+        "E.C.: Neurologia",
+        "E.C.: Oncologia",
+        "Exames Complementares",
+        "Recursos Terapêuticos Manuais",
+        "Prótese e Órtese"
+      ]
+    },
+    "Semestre6": {
+      "Disciplinas": [
+        "Farmacologia em Fisioterapia",
+        "Fisioterapia Dermato-funcional",
+        "Fisioterapia Geriátrica",
+        "Fisioterapia Reumatológica",
+        "Fisioterapia Pélvica e Obstétrica",
+        "Fisioterapia Aquática",
+        "Noções em Ergonomia e Ft. Preventiva",
+        "Recursos Eletro-termo-fototerapêuticos"
+      ]
+    },
+    "Semestre7": {
+      "Disciplinas": [
+        "Bioestatística",
+        "Reabilitação Cardíaca Hospitalar",
+        "Neonatal",
+        "Neurofuncional - Doenças Raras e Degenerativas",
+        "Neuropediátrica",
+        "Traumatologia e Ortopedia aplicada aos Membros",
+        "Pneumofuncional Hospitalar",
+        "Metodologia da pesquisa científica"
+      ]
+    },
+    "Semestre8": {
+      "Disciplinas": [
+        "Bioética",
+        "Reabilitação Cardíaca Ambulatorial",
+        "Fisioterapia Pediátrica",
+        "Fisioterapia Esportiva",
+        "Neurofuncional - Doenças Neurovasculares",
+        "Fisioterapia nas Disfunções Motoras Infantis",
+        "Traumatologia e Ortopedia aplicada aos Membros",
+        "Pneumofuncional Ambulatorial"
+      ]
+    },
+    "Semestre9": {
+      "Disciplinas": [
+        "Psicologia da Saúde"
+      ]
+    },
+    "Semestre10": {
+      "Disciplinas": [
+        "Psicologia aplicada ao relacionamento Fisioterapeuta-paciente"
+      ]
+    }
+  }
+}
